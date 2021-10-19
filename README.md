@@ -1,4 +1,4 @@
-** Project done during the Data Science & Analytics Internship at The Sparks Foundation **
+** Project done during the Data Science & Business Analytics Internship at The Sparks Foundation **
 
 # Task 3-EXPLORATORY-DATA-ANALYSIS-TERRORISM
 
